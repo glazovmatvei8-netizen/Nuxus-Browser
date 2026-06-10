@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "changelog": "Фикс багов с кнопками вкладок",
-  "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/nuxus-browser/main/nuxus_browser_v2.py"
+  "version": "1.0.2",
+  "changelog": "Фикс SSL, новый поиск...",
+  "download_url": "https://github.com/glazovmatvei8-netizen/Nuxus-Browser/releases/download/Browser/NuxusBrowser_v2.exe"
 }
